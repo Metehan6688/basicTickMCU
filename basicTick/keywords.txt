@@ -1,0 +1,3 @@
+basicTick_init    KEYWORD1
+basicTick_get     KEYWORD1
+basicTick_reset   KEYWORD1
